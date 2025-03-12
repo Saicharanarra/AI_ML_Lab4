@@ -6,7 +6,7 @@ import joblib
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("C:/Users/bharg/Downloads/Lab_4/Fish.csv")
+df = pd.read_csv("F:/Saicharan_AI_Sem2/AI In Enterprise Systems/lab4_v1/Fish.csv")
 
 # Display first few rows
 print(df.head())
